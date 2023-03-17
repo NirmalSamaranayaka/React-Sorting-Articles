@@ -1,3 +1,7 @@
+![react2](https://user-images.githubusercontent.com/86515501/226064607-24afe084-54c4-4565-992a-0f4b5eebd76a.PNG)
+
+![react3](https://user-images.githubusercontent.com/86515501/226064619-f780fd9f-05a6-4533-b647-7fb6891f39d0.PNG)
+
 # React: Sorting Articles  
 
 Create a basic article sorting application, as shown below. Some core functionalities have already been implemented, but the application is not complete. Application requirements are given below, and the finished application must pass all of the unit tests.
